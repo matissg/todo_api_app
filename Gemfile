@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4', '>= 1.4.1'
 # Use Puma as the app server
-gem 'puma', '~> 4.0', '>= 4.0.1'
+gem 'puma', '~> 4.3'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 # JSON serilalizer
